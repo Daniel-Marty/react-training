@@ -2,3 +2,6 @@
     grid-area: p;
     background-color: rgb(251, 119, 119);
 }
+.profile img{
+    height: 400px;
+}
